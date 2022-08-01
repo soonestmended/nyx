@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/Users/dave/code/vulkan/nyx/build",
+  "command": "/usr/bin/clang++  -I/usr/local/include -isystem /opt/homebrew/include -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -o CMakeFiles/nyx.dir/src/main.cpp.o -c /Users/dave/code/vulkan/nyx/src/main.cpp",
+  "file": "/Users/dave/code/vulkan/nyx/src/main.cpp"
+}
+]

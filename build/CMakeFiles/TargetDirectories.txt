@@ -1,0 +1,3 @@
+/Users/dave/code/vulkan/nyx/build/CMakeFiles/nyx.dir
+/Users/dave/code/vulkan/nyx/build/CMakeFiles/edit_cache.dir
+/Users/dave/code/vulkan/nyx/build/CMakeFiles/rebuild_cache.dir
