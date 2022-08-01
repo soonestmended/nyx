@@ -10,5 +10,7 @@ find_package(glm REQUIRED)
 #include_directories(/opt/homebrew/opt/glm/include /opt/homebrew/opt/glfw/include)
 # add the executable
 add_executable(nyx src/main.cpp)
+set_property(TARGET nyx PROPERTY CXX_STANDARD 17)
+
 include_directories(${Vulkan_INCLUDE_DIRS})
 target_link_libraries(nyx ${Vulkan_LIBRARIES} glfw ${GLM_LIBRARY})
